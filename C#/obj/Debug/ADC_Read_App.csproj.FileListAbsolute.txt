@@ -1,0 +1,10 @@
+C:\Users\talha\source\repos\ADC_Read_App\ADC_Read_App\bin\Debug\ADC_Read_App.exe.config
+C:\Users\talha\source\repos\ADC_Read_App\ADC_Read_App\bin\Debug\ADC_Read_App.exe
+C:\Users\talha\source\repos\ADC_Read_App\ADC_Read_App\bin\Debug\ADC_Read_App.pdb
+C:\Users\talha\source\repos\ADC_Read_App\ADC_Read_App\obj\Debug\ADC_Read_App.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\ADC_Read_App\ADC_Read_App\obj\Debug\ADC_Read_App.Form1.resources
+C:\Users\talha\source\repos\ADC_Read_App\ADC_Read_App\obj\Debug\ADC_Read_App.Properties.Resources.resources
+C:\Users\talha\source\repos\ADC_Read_App\ADC_Read_App\obj\Debug\ADC_Read_App.csproj.GenerateResource.cache
+C:\Users\talha\source\repos\ADC_Read_App\ADC_Read_App\obj\Debug\ADC_Read_App.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\ADC_Read_App\ADC_Read_App\obj\Debug\ADC_Read_App.exe
+C:\Users\talha\source\repos\ADC_Read_App\ADC_Read_App\obj\Debug\ADC_Read_App.pdb
