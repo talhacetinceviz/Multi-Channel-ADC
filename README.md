@@ -30,7 +30,8 @@ STM32F4 Discovery kartı ile iki kanal ADC okuma ve seri port üzerinden C# Wind
 
 **Breadboard üzerinde kurduğum devre resimde gösterilmiştir.**
 
-![image](https://github.com/user-attachments/assets/7dcf8b1f-f7e2-4dd9-a644-471657c2f92d)
+![image](https://github.com/user-attachments/assets/ca8e7236-47e2-495d-a462-3938007234d1)
+
 
 **C# ile yaptığım devre resimde görüldüğü gibidir.**
 
